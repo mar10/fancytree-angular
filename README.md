@@ -1,2 +1,2 @@
-# fancytree-angular
+# ngx-fancytree
 Angular directive for Fancytree
