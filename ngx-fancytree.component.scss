@@ -1,0 +1,7 @@
+:host(fancytree) {
+  display: block;
+
+  @media only screen and (max-width: 767px) {
+    margin-bottom: 20px;
+  }
+}
